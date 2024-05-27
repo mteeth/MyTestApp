@@ -1,0 +1,14 @@
+/Users/martinogbimi/New Test/MyTestApp/obj/Debug/net8.0/MyTestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinogbimi/New Test/MyTestApp/obj/Debug/net8.0/MyTestApp.AssemblyInfoInputs.cache
+/Users/martinogbimi/New Test/MyTestApp/obj/Debug/net8.0/MyTestApp.AssemblyInfo.cs
+/Users/martinogbimi/New Test/MyTestApp/obj/Debug/net8.0/MyTestApp.csproj.CoreCompileInputs.cache
+/Users/martinogbimi/New Test/MyTestApp/bin/Debug/net8.0/MyTestApp
+/Users/martinogbimi/New Test/MyTestApp/bin/Debug/net8.0/MyTestApp.deps.json
+/Users/martinogbimi/New Test/MyTestApp/bin/Debug/net8.0/MyTestApp.runtimeconfig.json
+/Users/martinogbimi/New Test/MyTestApp/bin/Debug/net8.0/MyTestApp.dll
+/Users/martinogbimi/New Test/MyTestApp/bin/Debug/net8.0/MyTestApp.pdb
+/Users/martinogbimi/New Test/MyTestApp/obj/Debug/net8.0/MyTestApp.dll
+/Users/martinogbimi/New Test/MyTestApp/obj/Debug/net8.0/refint/MyTestApp.dll
+/Users/martinogbimi/New Test/MyTestApp/obj/Debug/net8.0/MyTestApp.pdb
+/Users/martinogbimi/New Test/MyTestApp/obj/Debug/net8.0/MyTestApp.genruntimeconfig.cache
+/Users/martinogbimi/New Test/MyTestApp/obj/Debug/net8.0/ref/MyTestApp.dll
