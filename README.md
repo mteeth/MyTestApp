@@ -1,0 +1,1 @@
+This .NET MAUI application manages basic inventory and customer service operations. It includes item, cart, and inventory management features, allowing users to add, remove, and track products. The app also supports simple customer-service workflows, making it useful for demonstrating object-oriented design and cross-platform development in .NET.
